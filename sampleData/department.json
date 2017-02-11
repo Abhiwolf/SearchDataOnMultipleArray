@@ -1,0 +1,60 @@
+
+{
+    "statusCode": "S0000",
+  "statusMsg": "SUCCESS",
+  "departments":[
+      {
+          "groupId":"sharma1",
+          "groupName":"department1",
+          "phoneNumber":9876543210,
+          "address":"PBH1"
+      },
+      {
+          "groupId":"sharma2",
+          "groupName":"department2",
+          "phoneNumber":9876543211,
+          "address":"PBH2"
+      },
+      {
+          "groupId":"sharma3",
+          "groupName":"department3",
+          "phoneNumber":9876543212,
+          "address":"PBH3"
+      },
+      {
+          "groupId":"sharma4",
+          "groupName":"department4",
+          "phoneNumber":9876543213,
+          "address":"PBH4"
+      },{
+          "groupId":"sharma5",
+          "groupName":"department5",
+          "phoneNumber":9876543214,
+          "address":"PBH5"
+      },
+      {
+          "groupId":"sharma6",
+          "groupName":"department6",
+          "phoneNumber":9876543215,
+          "address":"PBH6"
+      },
+      {
+          "groupId":"sharma7",
+          "groupName":"department7",
+          "phoneNumber":9876543216,
+          "address":"PBH8"
+      },
+      {
+          "groupId":"sharma8",
+          "groupName":"department8",
+          "phoneNumber":9876543217,
+          "address":"PBH9"
+      },
+      {
+          "groupId":"sharma9",
+          "groupName":"department9",
+          "phoneNumber":9876543218,
+          "address":"PBH0"
+      }
+  ]
+}
